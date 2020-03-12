@@ -58,6 +58,10 @@ function TrainPage(props) {
     </div>
   );
 }
+        
+function ShipPage(props) {
+  return "";
+}
 
 class App extends Component {
   constructor(props) {
